@@ -1,0 +1,103 @@
+# =========================
+
+# Python
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# =========================
+
+# Virtual Environments
+
+# =========================
+
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# =========================
+
+# Jupyter Notebook
+
+# =========================
+
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =========================
+
+# IDE / Editor Files
+
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+
+# OS Files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Logs
+
+# =========================
+
+*.log
+logs/
+
+# =========================
+
+# Environment Variables
+
+# =========================
+
+.env
+.env.*
+
+# =========================
+
+# ML / DL Specific
+
+# =========================
+
+# Model Weights
+
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pb
+
+# TensorBoard
+
+runs/
+tensorboard_logs/
+
+# Cache
+
+.cache/
+.cache/
+
+# =========================
+
